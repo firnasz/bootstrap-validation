@@ -1,5 +1,10 @@
 //############## VALIDATIONS ################
 
+/* Author */
+/*
+    Firnas Aliyar, 2015-05-26, http://firnasz.blogspot.com
+*/
+
 /* Changelog */
 /*
     Version 1.0.0   2015-05-26  Initial Version
